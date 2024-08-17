@@ -1,3 +1,7 @@
+from substract import subtract
+from add import add
+from multiply import multiply
+from divide import divide
 def calculator():
     print("Simple Calculator")
     print("1. Add")
